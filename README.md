@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/QuantStack/memestra/workflows/CI/badge.svg)](https://github.com/QuantStack/memestra/actions)
+[![Build Status](https://github.com/davidbrochart/memestra/workflows/CI/badge.svg)](https://github.com/davidbrochart/memestra/actions)
 
 # Memestra!
 
