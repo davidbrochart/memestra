@@ -1,3 +1,5 @@
+[![Build Status](https://github.com/QuantStack/memestra/workflows/CI/badge.svg)](https://github.com/QuantStack/memestra/actions)
+
 # Memestra!
 
 Memestra checks code for places where deprecated functions are called.
